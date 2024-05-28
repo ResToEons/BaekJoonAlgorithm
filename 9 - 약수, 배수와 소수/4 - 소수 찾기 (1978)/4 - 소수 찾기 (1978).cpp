@@ -1,4 +1,4 @@
-#include <iostream>
+ #include <iostream>
 #define MAX_NUM 1000
 #define PRIME_NUMBER 2
 int main()
